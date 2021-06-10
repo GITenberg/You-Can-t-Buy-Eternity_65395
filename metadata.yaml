@@ -1,5 +1,8 @@
 _repo: You-Can-t-Buy-Eternity_65395
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65395-h/images/cover.jpg
 creator:
   author:
     agent_name: Swain, Dwight V.
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35927
     wikipedia: http://www.gutenberg.org/ebooks/author/35980
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65395#You-Can-t-Buy-Eternity
 gutenberg_issued: '2021-05-20'
 gutenberg_type: Text
 identifiers:
