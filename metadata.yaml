@@ -1,0 +1,26 @@
+_repo: You-Can-t-Buy-Eternity_65395
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Swain, Dwight V.
+    birthdate: 1915
+    deathdate: 1992
+    gutenberg_agent_id: '35927'
+    url: http://www.gutenberg.org/2009/agents/35927
+    wikipedia: http://www.gutenberg.org/ebooks/author/35980
+description: ''
+gutenberg_issued: '2021-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- GITenberg
+title: You Can't Buy Eternity!
+url: http://www.gutenberg.org/ebooks/65395
